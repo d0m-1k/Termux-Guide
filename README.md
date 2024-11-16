@@ -1,5 +1,3 @@
 # Гайд по Termux
 ### Скачать
-Termux - 
-Termux:API - 
-Termux:X11 - 
+Termux Apps: [Клик](https://github.com/d0m-1k/Termux-Guide/releases/tag/main)
